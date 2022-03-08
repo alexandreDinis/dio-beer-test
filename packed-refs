@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+1a2449c04695e5a05cb39a49baaaf7cd13d7628f refs/heads/feature/beer_creation
+327276753a3596215986727405c28992ffdd78ee refs/heads/feature/beer_exclusion
+7ac2055ac367ccfd1569a790417d5c536eb557f3 refs/heads/feature/beer_listing
+09b5a20e84b2febd2da1c896cea76c5bbe70599c refs/heads/feature/decrement-beer-stock
+73a043df675df3939bb26d3243fb0d21bcfe428a refs/heads/feature/find_beer_by_name
+11631baf5e81a4eafa28a942e10d7f21dde43b98 refs/heads/feature/increment-beer-stock
+a303f9c5f75b5db4722d388e16c48b67b89a1901 refs/heads/feature/model_creation
+3269aa71b73318e0374dac79b6ebed65662b3e14 refs/heads/master
+fe3651c16ec4bd5a1b0de426fe8727137b283211 refs/heads/master-all-tests
